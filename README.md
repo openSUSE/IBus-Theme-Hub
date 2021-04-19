@@ -1,7 +1,6 @@
 # IBus 主题集合
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/IBus-Theme-Hub)](https://github.com/HollowMan6/IBus-Theme-Hub/graphs/commit-activity)
-[![release-date](https://img.shields.io/github/release-date/HollowMan6/IBus-Theme-Hub)](../../releases)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/IBus-Theme-Hub?style=social)](https://github.com/HollowMan6/IBus-Theme-Hub/watchers)
@@ -17,6 +16,8 @@
 可被[自定义IBus GNOME Shell 扩展](https://github.com/HollowMan6/IBus-Theme-Hub)使用的IBus主题集合。
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">][ego]
+
+![](https://github.com/HollowMan6/Customize-IBus/raw/main/img/demo.png)
 
 ## [仿微软微软输入法主题](仿微软Microsoft)
 
@@ -50,9 +51,9 @@
 - [水鸭青 浅色](仿微软Microsoft/Turquoise-Light-水鸭青-浅色-ABECED.css) <font color=#ABECED>#ABECED</font>
 
 
-### [... 等待你的贡献](https://github.com/HollowMan6/IBus-Theme-Hub/issues/1)
+### [⋯⋯等待你的贡献](https://github.com/HollowMan6/IBus-Theme-Hub/issues/1)
 
-## 你还可以使用[IBus 主题工具](https://github.com/HollowMan6/IBus-Theme)从现有GNOME Shell 主题提取生成IBus主题
+## 你还可以使用[IBus 主题工具](https://github.com/HollowMan6/IBus-Theme)从现有GNOME Shell 主题提取生成IBus主题。
 
 ## 致谢
 
@@ -64,6 +65,7 @@ This is the hub for IBus theme that can be used by [Customize IBus GNOME Shell E
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">][ego]
 
+![](https://github.com/HollowMan6/Customize-IBus/raw/main/img/demo-en.png)
 
 ## Microsoft IME Theme
 
