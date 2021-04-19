@@ -16,4 +16,4 @@ In order to get your PR merged into the main branch, please create a new folder 
 
 ***All the code you contribute will follow [GPLv3 License](https://github.com/HollowMan6/IBus-Theme-Hub/blob/main/LICENSE)。***
 
-**Note: ** If a PR is related to use [IBus Theme Tool](https://github.com/HollowMan6/IBus-Theme) to extract IBus theme from a specific GNOME Shell Theme, Unless you make substantial changes to the generated theme CSS file, it will not be merged. Of course, you can and are welcome to publish issues at any time to share your experiences of using [IBus Theme Tool](https://github.com/HollowMan6/IBus-Theme) and links to GNOME Shell Themes.
+**Note:** If a PR is related to use [IBus Theme Tool](https://github.com/HollowMan6/IBus-Theme) to extract IBus theme from a specific GNOME Shell Theme, Unless you make substantial changes to the generated theme CSS file, it will not be merged. Of course, you can and are welcome to publish issues at any time to share your experiences of using [IBus Theme Tool](https://github.com/HollowMan6/IBus-Theme) and links to GNOME Shell Themes.
