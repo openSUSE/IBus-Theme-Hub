@@ -1,0 +1,88 @@
+/* Exported by Hollow Man <hollowman@hollowman.ml> from 
+ * https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css
+ */
+
+/*
+ *   Common
+ */
+
+
+ .candidate-popup-content {
+    border-radius: 0.2em;
+    border-width: 1px;
+    padding: 0;
+}
+
+.candidate-popup-text {
+    border-width: 0;
+    border-bottom-width: 1px;
+    padding: 0;
+}
+
+.candidate-box {
+    transition-duration: 100ms;
+    border-radius: 0;
+    padding: 0.5em;
+}
+
+/* hide page buttons */
+.candidate-page-button,
+.candidate-page-button-box,
+.candidate-page-button-previous,
+.candidate-page-button-next,
+.candidate-page-button-icon {
+    width: 0 !important;
+    height: 0 !important;
+    border-width: 0 !important;
+    color: transparent !important;
+    background-color: transparent !important;
+}
+
+.candidate-popup-boxpointer {
+    -arrow-background-color: transparent;
+    -arrow-border-radius: 0.75em;
+    -arrow-rise: 0.3em;
+    /* Fix border */
+    -arrow-border-color: transparent;
+    background: none;
+    border-image: none;
+}
+
+/*
+ *   Text
+ */
+
+
+.candidate-popup-content {
+    color: rgba(0, 0, 0, 0.95);
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.candidate-box:selected {
+    color: rgba(0, 0, 0, 1);
+}
+
+.candidate-box, .candidate-index {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+/*
+ *   Colors
+ */
+
+
+/*
+ *  #ABECED
+ */
+.candidate-popup-content,
+.candidate-popup-text {
+     border-color: rgba(171, 236, 237, 0.95);
+ }
+ 
+.candidate-box:hover {
+     background-color: rgba(171, 236, 237, 0.6);
+ }
+ 
+.candidate-box:selected {
+     background-color: rgba(171, 236, 237, 0.95);
+ }
