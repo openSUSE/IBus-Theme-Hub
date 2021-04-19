@@ -1,4 +1,4 @@
-# 仿微软微软输入法主题
+# 仿微软输入法主题
 
 (English version is down below)
 

@@ -19,7 +19,7 @@
 
 ![](https://github.com/HollowMan6/Customize-IBus/raw/main/img/demo.png)
 
-## [仿微软微软输入法主题](仿微软Microsoft)
+## [仿微软输入法主题](仿微软Microsoft)
 
 提取自[IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css)。
 
