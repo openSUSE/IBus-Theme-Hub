@@ -11,6 +11,7 @@
     border-radius: 0.2em;
     border-width: 1px;
     padding: 0;
+    box-shadow: none;
 }
 
 .candidate-popup-text {
