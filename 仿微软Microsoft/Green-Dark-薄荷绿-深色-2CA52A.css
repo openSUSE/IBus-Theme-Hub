@@ -42,7 +42,7 @@
 .candidate-popup-boxpointer {
     -arrow-background-color: transparent;
     -arrow-border-radius: 0.75em;
-    -arrow-rise: 0.3em;
+    -arrow-rise: 6px;
     /* Fix border */
     -arrow-border-color: transparent;
     background: none;

@@ -57,7 +57,7 @@
 
 ## 致谢
 
-_该项目是谷歌编程之夏 (GSoC) 2021 于[OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)社区成果的一部分。_
+_该项目是[谷歌编程之夏 (GSoC) 2021](https://summerofcode.withgoogle.com/projects/#5505085183885312) 于[OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)社区成果的一部分。_
 
 # [IBus Theme Hub](仿微软Microsoft)
 
@@ -104,6 +104,6 @@ Extracted from [IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker
 
 ## Acknowledgements
 
-_This project is part of the achievement of the Google Summer of Code 2021 at [OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)._
+_This project is part of the achievement of the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5505085183885312) at [OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)._
 
 [ego]: https://extensions.gnome.org/extension/4112/IBus-Theme-Hub/
