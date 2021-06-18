@@ -8,6 +8,7 @@
 
 
  .candidate-popup-content {
+    margin: 0.3em;
     border-radius: 0.2em;
     border-width: 1px;
     padding: 0;
@@ -42,7 +43,6 @@
 .candidate-popup-boxpointer {
     -arrow-background-color: transparent;
     -arrow-border-radius: 0.75em;
-    -arrow-rise: 6px;
     /* Fix border */
     -arrow-border-color: transparent;
     background: none;
