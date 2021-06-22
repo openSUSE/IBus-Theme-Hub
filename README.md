@@ -23,6 +23,8 @@
 
 提取自[IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css)。
 
+调页按钮由 Hollow Man (@HollowMan6) 添加。
+
 ### 示例
 
 **深色**:
@@ -70,6 +72,8 @@ This is the hub for IBus theme that can be used by [Customize IBus GNOME Shell E
 ## Microsoft IME Theme
 
 Extracted from [IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css).
+
+Page buttons added by Hollow Man (@HollowMan6)
 
 ### Example
 
