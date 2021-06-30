@@ -1,23 +1,17 @@
 # IBus 主题集合
 
-[![last-commit](https://img.shields.io/github/last-commit/HollowMan6/IBus-Theme-Hub)](https://github.com/HollowMan6/IBus-Theme-Hub/graphs/commit-activity)
+[![last-commit](https://img.shields.io/github/last-commit/openSUSE/IBus-Theme-Hub)](https://github.com/openSUSE/IBus-Theme-Hub/graphs/commit-activity)
 
-[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
-[![watchers](https://img.shields.io/github/watchers/HollowMan6/IBus-Theme-Hub?style=social)](https://github.com/HollowMan6/IBus-Theme-Hub/watchers)
-[![stars](https://img.shields.io/github/stars/HollowMan6/IBus-Theme-Hub?style=social)](https://github.com/HollowMan6/IBus-Theme-Hub/stargazers)
-[![forks](https://img.shields.io/github/forks/HollowMan6/IBus-Theme-Hub?style=social)](https://github.com/HollowMan6/IBus-Theme-Hub/network/members)
-
-[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
-[![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/IBus-Theme-Hub.svg)](https://github.com/HollowMan6/IBus-Theme-Hub/archive/main.zip)
+[![Repo-Size](https://img.shields.io/github/repo-size/openSUSE/IBus-Theme-Hub.svg)](https://github.com/openSUSE/IBus-Theme-Hub/archive/main.zip)
 
 [English](README.md)
 
-可被[自定义IBus GNOME Shell 扩展](https://github.com/HollowMan6/Customize-IBus)使用的IBus主题集合。
+可被[自定义IBus GNOME Shell 扩展](https://github.com/openSUSE/Customize-IBus)使用的IBus主题集合。
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">][ego]
 
-![](https://github.com/HollowMan6/Customize-IBus/raw/main/img/demo.png)
+![](https://github.com/openSUSE/Customize-IBus/raw/main/img/demo.png)
 
 ## [仿微软输入法主题](仿微软Microsoft)
 
@@ -53,10 +47,12 @@
 - [水鸭青 浅色](仿微软Microsoft/Turquoise-Light-水鸭青-浅色-ABECED.css) <font color=#ABECED>#ABECED</font>
 
 
-### [⋯⋯等待你的贡献](https://github.com/HollowMan6/IBus-Theme-Hub/issues/1)
+### [⋯⋯等待你的贡献](https://github.com/openSUSE/IBus-Theme-Hub/issues/1)
 
-## 你还可以使用[IBus 主题工具](https://github.com/HollowMan6/IBus-Theme)从现有GNOME Shell 主题提取生成IBus主题。
+## 你还可以使用[IBus 主题工具](https://github.com/openSUSE/IBus-Theme-Tools)从现有GNOME Shell 主题提取生成IBus主题。
 
 ## 致谢
 
-_该项目是[谷歌编程之夏 (GSoC) 2021](https://summerofcode.withgoogle.com/projects/#5505085183885312) 于[OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)社区成果的一部分。_
+_该项目是[@HollowMan6](https://github.com/HollowMan6)参与[谷歌编程之夏 (GSoC) 2021](https://summerofcode.withgoogle.com/projects/#5505085183885312) 于[OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)社区成果的一部分。_
+
+[ego]: https://extensions.gnome.org/extension/4112/IBus-Theme-Hub/
