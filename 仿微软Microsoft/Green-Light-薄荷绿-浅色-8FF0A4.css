@@ -10,7 +10,7 @@
 
 
  .candidate-popup-content {
-    margin: 0.3em;
+    margin: 0em;
     border-radius: 0.2em;
     border-width: 1px;
     padding: 0;
@@ -47,8 +47,10 @@
 }
 
 .candidate-popup-boxpointer {
-    -arrow-background-color: transparent;
-    -arrow-border-radius: 0.75em;
+    -arrow-background-color: rgba(255, 255, 255, 1);
+    -arrow-border-radius: 0.2em;
+    -arrow-border-width: 0px;
+    -arrow-base: 0px;
     /* Fix border */
     -arrow-border-color: transparent;
     background: none;
@@ -62,7 +64,7 @@
 
 .candidate-popup-content {
     color: rgba(0, 0, 0, 0.95);
-    background-color: rgba(255, 255, 255, 1);
+    background-color: transparent;
 }
 
 .candidate-box:selected {

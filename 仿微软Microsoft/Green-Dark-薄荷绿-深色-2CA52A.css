@@ -1,3 +1,4 @@
+
 /* Exported by Hollow Man <hollowman@hollowman.ml> from 
  * https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css
  *
@@ -47,8 +48,10 @@
 }
 
 .candidate-popup-boxpointer {
-    -arrow-background-color: transparent;
-    -arrow-border-radius: 0.75em;
+    -arrow-background-color: rgba(56, 56, 56, 1);
+    -arrow-border-radius: 0.2em;
+    -arrow-border-width: 0px;
+    -arrow-base: 0px;
     /* Fix border */
     -arrow-border-color: transparent;
     background: none;
@@ -62,7 +65,7 @@
 
 .candidate-popup-content {
     color: rgba(255, 255, 255, 0.95);
-    background-color: rgba(56, 56, 56, 1);
+    background-color: transparent;
 }
 
 .candidate-box:selected {
