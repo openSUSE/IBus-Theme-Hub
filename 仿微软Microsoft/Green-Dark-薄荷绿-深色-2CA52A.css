@@ -32,11 +32,17 @@
 
 .candidate-page-button:insensitive{
     color: rgba(255, 255, 255, 0.2) !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none;
 }
 
 .candidate-page-button:hover,
 .candidate-page-button:active {
     color: rgba(255, 255, 255, 1) !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none;
 }
 
 .candidate-page-button {
@@ -45,6 +51,7 @@
     border-color: transparent !important;
     min-width: 28px !important;
     min-height: 28px !important;
+    box-shadow: none;
 }
 
 .candidate-popup-boxpointer {
