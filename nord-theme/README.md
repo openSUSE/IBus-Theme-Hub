@@ -1,8 +1,8 @@
 # Nord Ibus Theme
 
-dsss by nord color theme [Nord Theme](https://www.nordtheme.com/docs/colors-and-palettes).
+Inspired by [Nord Theme](https://www.nordtheme.com/docs/colors-and-palettes).
 
-Credit to Hollow Man([@HollowMan6](https://github.com/HollowMan6)) for the ibus theme extention..
+Credit to Hollow Man([@HollowMan6](https://github.com/HollowMan6)) for the [Customize Ibus Extension](https://extensions.gnome.org/extension/4112/customize-ibus/).
 
 ## Example
 
