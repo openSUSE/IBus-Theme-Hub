@@ -13,26 +13,11 @@ This is the hub for IBus theme that can be used by [Customize IBus GNOME Shell E
 
 ![](https://github.com/openSUSE/Customize-IBus/raw/main/img/demo-en.png)
 
-## Microsoft IME Theme
-
-Extracted from [IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css).
-
-Page buttons added by Hollow Man (@HollowMan6)
-
-### Example
-
-**Dark**:
-
-![](仿微软Microsoft/img/eg-dark.png)
-
-**Light**:
-
-![](仿微软Microsoft/img/eg-light.png)
-
-### Content
-
+## [Microsoft IME Theme](仿微软Microsoft)
 - [Blue Dark](仿微软Microsoft/Blue-Dark-科技蓝-深色-1A5FB4.css) <font color=#1A5FB4>#1A5FB4</font>
+![](仿微软Microsoft/img/eg-dark.png)
 - [Blue Light](仿微软Microsoft/Blue-Light-科技蓝-浅色-99C1F1.css) <font color=#99C1F1>#99C1F1</font>
+![](仿微软Microsoft/img/eg-light.png)
 - [Green Dark](仿微软Microsoft/Green-Dark-薄荷绿-深色-2CA52A.css) <font color=#2CA52A>#2CA52A</font>
 - [Green Light](仿微软Microsoft/Green-Light-薄荷绿-浅色-8FF0A4.css) <font color=#8FF0A4>#8FF0A4</font>
 - [Grey Dark](仿微软Microsoft/Grey-Dark-混沌灰-深色-59575D.css) <font color=#59575D>#59575D</font>
@@ -46,7 +31,13 @@ Page buttons added by Hollow Man (@HollowMan6)
 - [Turquoise Dark](仿微软Microsoft/Turquoise-Dark-水鸭青-深色-128FA3.css) <font color=#128FA3>#128FA3</font>
 - [Turquoise Light](仿微软Microsoft/Turquoise-Light-水鸭青-浅色-ABECED.css) <font color=#ABECED>#ABECED</font>
 
-### [... Waiting for Your Contribution](https://github.com/openSUSE/IBus-Theme-Hub/issues/1)
+## [Nord Theme](nord-theme)
+- [Snow Storm Light](nord-theme/snow-storm-light.css) <font color=#d8dee9>#D8DEE9</font>
+![](nord-theme/img/snow-storm-light.png)
+- [Polar Night Dark](nord-theme/polar-night-dark.css) <font color=#2e3440>#2E3440</font>
+![](nord-theme/img/polar-night-dark.png)
+
+## [... Waiting for Your Contribution](https://github.com/openSUSE/IBus-Theme-Hub/issues/1)
 
 ## You can also use [IBus Theme Tools](https://github.com/openSUSE/IBus-Theme-Tools) to extract IBus theme from GNOME Shell Theme.
 

@@ -14,25 +14,10 @@
 ![](https://github.com/openSUSE/Customize-IBus/raw/main/img/demo.png)
 
 ## [仿微软输入法主题](仿微软Microsoft)
-
-提取自[IBus Tweaker Stylesheet](https://github.com/tuberry/ibus-tweaker/blob/8616794abe3e8664a23e41a282a1bc94873040f6/ibus-tweaker%40tuberry.github.com/stylesheet.css)。
-
-调页按钮由 Hollow Man (@HollowMan6) 添加。
-
-### 示例
-
-**深色**:
-
-![](仿微软Microsoft/img/eg-dark.png)
-
-**浅色**:
-
-![](仿微软Microsoft/img/eg-light.png)
-
-### 目录
-
 - [科技蓝 深色](仿微软Microsoft/Blue-Dark-科技蓝-深色-1A5FB4.css) <font color=#1A5FB4>#1A5FB4</font>
+![](仿微软Microsoft/img/eg-dark.png)
 - [科技蓝 浅色](仿微软Microsoft/Blue-Light-科技蓝-浅色-99C1F1.css) <font color=#99C1F1>#99C1F1</font>
+![](仿微软Microsoft/img/eg-light.png)
 - [薄荷绿 深色](仿微软Microsoft/Green-Dark-薄荷绿-深色-2CA52A.css) <font color=#2CA52A>#2CA52A</font>
 - [薄荷绿 浅色](仿微软Microsoft/Green-Light-薄荷绿-浅色-8FF0A4.css) <font color=#8FF0A4>#8FF0A4</font>
 - [混沌灰 深色](仿微软Microsoft/Grey-Dark-混沌灰-深色-59575D.css) <font color=#59575D>#59575D</font>
@@ -46,8 +31,13 @@
 - [水鸭青 深色](仿微软Microsoft/Turquoise-Dark-水鸭青-深色-128FA3.css) <font color=#128FA3>#128FA3</font>
 - [水鸭青 浅色](仿微软Microsoft/Turquoise-Light-水鸭青-浅色-ABECED.css) <font color=#ABECED>#ABECED</font>
 
+## [Nord 主题](nord-theme)
+- [暴雪白](nord-theme/snow-storm-light.css) <font color=#d8dee9>#D8DEE9</font>
+![](nord-theme/img/snow-storm-light.png)
+- [极夜黑](nord-theme/polar-night-dark.css) <font color=#2e3440>#2E3440</font>
+![](nord-theme/img/polar-night-dark.png)
 
-### [⋯⋯等待你的贡献](https://github.com/openSUSE/IBus-Theme-Hub/issues/1)
+## [⋯⋯等待你的贡献](https://github.com/openSUSE/IBus-Theme-Hub/issues/1)
 
 ## 你还可以使用[IBus 主题工具](https://github.com/openSUSE/IBus-Theme-Tools)从现有GNOME Shell 主题提取生成IBus主题。
 
