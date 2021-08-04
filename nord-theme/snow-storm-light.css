@@ -3,11 +3,12 @@
   border-radius: 10px;
   padding: 0;
   box-shadow: none;
+  border-width: 0;
 }
 
 .candidate-popup-text {
   border-width: 0;
-  border-bottom-width: 1px;
+  border-bottom-width: 0;
   padding: 0;
 }
 
@@ -44,7 +45,7 @@
 
 .candidate-popup-boxpointer {
   -arrow-background-color: #eceff4;
-  -arrow-border-radius: 1em;
+  -arrow-border-radius: 10px;
   -arrow-border-width: 0px;
   -arrow-base: 0px;
   /* Fix border */
