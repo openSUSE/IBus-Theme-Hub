@@ -1,6 +1,6 @@
 .candidate-popup-content {
   margin: 0em;
-  border-radius: 10px;
+  border-radius: 16px;
   padding: 0;
   box-shadow: none;
   border-width: 0;
@@ -14,7 +14,7 @@
 
 .candidate-box {
   transition-duration: 100ms;
-  border-radius: 1em;
+  border-radius: 16px;
   border-color: #4c566a;
   padding: 0.5em;
 }
@@ -45,7 +45,7 @@
 
 .candidate-popup-boxpointer {
   -arrow-background-color: #4c566a;
-  -arrow-border-radius: 10px;
+  -arrow-border-radius: 16px;
   -arrow-border-width: 0px;
   -arrow-base: 0px;
   /* Fix border */
