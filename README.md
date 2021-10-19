@@ -43,6 +43,6 @@ This is the hub for IBus theme that can be used by [Customize IBus GNOME Shell E
 
 ## Acknowledgements
 
-_This project is part of the achievement of [@HollowMan6](https://github.com/HollowMan6) partipating the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5505085183885312) at [OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)._
+_This project was part of the achievement of [@HollowMan6](https://github.com/HollowMan6) partipating the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/archive/2021/projects/6295506795364352/) at [OpenSUSE](https://github.com/openSUSE/mentoring/issues/158)._
 
 [ego]: https://extensions.gnome.org/extension/4112/IBus-Theme-Hub/
