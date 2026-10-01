@@ -1,0 +1,79 @@
+.candidate-popup-boxpointer {
+  -arrow-border-radius: 0.52em;
+}
+
+.candidate-popup-content {
+  color: #ffffff;
+  background-color: #36363a;
+  box-shadow: 0 0.1em 0.2em 0 rgba(0, 0, 0, 0.2);
+  padding: 0.15em;
+  border-radius: 0.24em;
+  border: 0.05em solid #424247;
+}
+
+.candidate-box {
+  border-radius: 0.24em;
+  padding: 0.2em 0.2em 0.2em 0;
+}
+
+.candidate-box > .candidate-index {
+  min-width: 0.8em;
+  font-size: 0.8em;
+  padding: 0.25em 0 0 0.1em;
+  border-width: 0;
+  border-radius: 0.0875em;
+  border-left-width: 0.3em;
+  border-color: transparent;
+  color: #9b9b9d;
+}
+
+.candidate-box:selected {
+  color: #ffffff;
+  background-color: #4f4f54;
+}
+
+.candidate-box:selected > .candidate-index {
+  border-color: -st-accent-color;
+}
+
+.candidate-box:hover {
+  color: #ffffff;
+  background-color: #4f4f54;
+}
+
+.candidate-page-button-box {
+  spacing: 0.2em;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.vertical .candidate-page-button-box {
+  margin-top: 0.2em;
+  padding-top: 0.2em;
+  border-top-width: 0.05em;
+}
+
+.horizontal .candidate-page-button-box {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+  border-left-width: 0.05em;
+}
+
+.candidate-page-button {
+  padding: 0 !important;
+  max-height: 0 !important;
+  color: #ffffff;
+  background-color: #36363a;
+}
+
+.candidate-page-button StIcon {
+  icon-size: 1em;
+}
+
+.candidate-page-button:hover {
+  background-color: #4f4f54;
+}
+
+.candidate-page-button:insensitive {
+  color: #9b9b9d;
+}
+

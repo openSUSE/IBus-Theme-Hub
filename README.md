@@ -13,6 +13,12 @@ This is the hub for IBus theme that can be used by [Customize IBus GNOME Shell E
 
 ![](https://github.com/openSUSE/Customize-IBus/raw/main/img/demo-en.png)
 
+## [Simple Theme](simple)
+- [Simple Light](simple/simple-light.css) <font color=#fafafb>#FAFAFB</font>
+![](simple/img/simple-light.png)
+- [Simple Dark](simple/simple-dark.css) <font color=#36363a>#36363A</font>
+![](simple/img/simple-dark.png)
+
 ## [Microsoft IME Theme](仿微软Microsoft)
 - [Blue Dark](仿微软Microsoft/Blue-Dark-科技蓝-深色-1A5FB4.css) <font color=#1A5FB4>#1A5FB4</font>
 ![](仿微软Microsoft/img/eg-dark.png)

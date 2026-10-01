@@ -13,6 +13,12 @@
 
 ![](https://github.com/openSUSE/Customize-IBus/raw/main/img/demo.png)
 
+## [极简主题](simple)
+- [极简白](simple/simple-light.css) <font color=#fafafb>#FAFAFB</font>
+![](simple/img/simple-light.png)
+- [极简黑](simple/simple-dark.css) <font color=#36363a>#36363A</font>
+![](simple/img/simple-dark.png)
+
 ## [仿微软输入法主题](仿微软Microsoft)
 - [科技蓝 深色](仿微软Microsoft/Blue-Dark-科技蓝-深色-1A5FB4.css) <font color=#1A5FB4>#1A5FB4</font>
 ![](仿微软Microsoft/img/eg-dark.png)
